@@ -1,0 +1,27 @@
+*{color: #fff;}
+.bg{background: url(../image/diary.jpg) no-repeat; width: 100%; height: 100vh;}
+.form-container{border: 1px solid #fff; padding: 50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: 32px 27px 12px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 32px 27px 12px -4px rgba(0,0,0,0.75);
+box-shadow: 32px 27px 12px -4px rgba(0,0,0,0.75);
+}
+.secret{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color:whitesmoke;
+}
+a{
+    font-size: large;
+    margin-left: 150px;
+}
+.container{
+    border: 1px solid black;
+}
+.add{
+     margin-left:50% ;
+}
+textarea{
+    color: black;
+}
